@@ -1,0 +1,12 @@
+a = int(1)   	
+b = int(2.8)
+c = int("3") 	
+
+x = float(1)     
+y = float(2.8)  
+z = float("3")   
+w = float("4.2") 
+
+j = str("s1") 	
+k = str(2)    	
+l = str(3.0)  	 
